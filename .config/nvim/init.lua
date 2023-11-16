@@ -1,9 +1,12 @@
 vim.cmd([[
 set autoindent
 set encoding=utf-8
-set expandtab
-set shiftwidth=2
-set tabstop=2
+set noexpandtab
+set shiftwidth=8
+set tabstop=8
+set softtabstop=0
+set textwidth=80
+set formatoptions+=t
 set notimeout
 set number
 ]])
