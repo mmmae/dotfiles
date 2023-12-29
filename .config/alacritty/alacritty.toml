@@ -1,0 +1,28 @@
+import = ["/home/mae/.config/alacritty/themes/kanagawa_dragon.toml"]
+
+[font]
+size = 10.5
+
+[font.bold]
+family = "FantasqueSansM Nerd Font Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "FantasqueSansM Nerd Font Mono"
+style = "Bold Italic"
+
+[font.italic]
+family = "FantasqueSansM Nerd Font Mono"
+style = "Italic"
+
+[font.normal]
+family = "FantasqueSansM Nerd Font Mono"
+style = "Regular"
+
+[window.dimensions]
+columns = 128
+lines = 32
+
+[window.padding]
+x = 4
+y = 4
